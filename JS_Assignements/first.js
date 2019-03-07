@@ -8,7 +8,8 @@
 onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
 
-<p id="demo  and changes in IT"></p>
+<p id="demo  and changes in IT "></p>
+<p CHanges in JS FILE>
 
 </body>
 </html> 
